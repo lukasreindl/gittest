@@ -1,0 +1,11 @@
+Project
+
+Physio Calender
+
+Basic Idea:
+
+This kind of calender should count the treatment sessions of a patient. 
+normaly there are six or ten treaments planned for one perscription. 
+after the sixth or tenth session there should be a reminder that the treatment is over.
+there should be a new perscrption and a reminder for a report for the referral doctors.
+
